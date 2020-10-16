@@ -16,3 +16,6 @@ node main.js
 
 ## todo:
 - possibility to add custom values
+
+
+Made in autumn 2018
